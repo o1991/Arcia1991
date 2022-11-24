@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arcia1991
+7- 👋 Hi, I’m @Arcia1991
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,4 +7,113 @@
 <!---
 Arcia1991/Arcia1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
 --->
+<html>
+ <body>
+ <head><title>Oscar Manuel Arcia</title></head></head>
+  <h1> DE PARCHE EN MEDELLIN</h1>
+  <h2>✨✨QUE CHIMBA PARCE✨✨</h2>
+ </body>
+</html>
+<i>
+<p>Oscar Manuel Arcia</p>
+
+<html>
+  <head>
+ <title>Oscar Manuel Arcia</title></head>
+  <body>
+    Somos una empresa especializada en el turismos en  colombia.difrutaran de los mejores paisajes de nuestros territorio y culturas latinas tambien vicitamos  distintas ciudades en nustro mar caribe y nuestras playas de la sona costeras.
+    los llevaremos a disfrutar de un retiro con nuestra madre pachamama y tamaran la medicina ayahuasca.
+  </body>
+</html>
+
+<h1>LA MEJOR AGENCIA DE TURISMO</h1>
+<p>En medellin y el oriente antioqueño</p>
+<img src=https://la.network/wp-content/uploads/2020/06/MEDELLIN-MORAVIA-JARDIN.jpg height="200px"width="300px">
+
+<p>Le doy gracias a dios por darme vida y salud</p>
+<img src=https://www.elcolombiano.com/documents/10157/0/867x565/44c0/780d565/center/11101/OQYT/image_content_27955121_20170202002407.jpg heigth="200px"width="300px">
+
+<img
+src=jpg heigth="200px"width="300px">
+
+<html>
+    <head>
+        <title>Primera página</title>
+    </head>
+    <body>
+        <h1>Que lindo es medellin</h1>
+        <h2>Desde niño vivo en esta hermosa ciudad</h2>
+        <h3>hemos pasado momentos buenos y momentos malos</h3>
+        <h4>En este espacio les voy a contar un poco de nuestras vidas</h4>
+        <h5>Este es el encabezado 5</h5>
+        <h6>Este es el encabezado 6</h6>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>Primera página</title>
+    </head>
+    <body>
+        <h1>Este es el encabezado 1</h1>
+        <h2>Este es el encabezado 2</h2>
+        <h3>Este es el encabezado 3</h3>
+        <h4>Este es el encabezado 4</h4>
+        <h5>Este es el encabezado 5</h5>
+        <h6>Este es el encabezado 6</h6>
+        <hr>
+        <p>Esto es un párrafo </p>
+    </body>
+</html>
+
+<html>
+ <body>
+  <p>Este es un parrafo</p>
+   <p>Este es<br/>un salto de linea</p>
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+  <title>Dios gracias por tus bendiciones</title>
+    <body>
+       <h1>Oscar Manuel Arcia Florez</h1>
+       <p>  <strong>creative developer </strong></p>
+       <img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png"
+       width="200" height="200"> 
+       <hr/> 
+       <h2><i>Summary</i></h2>
+       <h2><i>Experience</i></h2>
+       <ul>
+            <li><b>Your job title 1</b>
+                <p>Your job description 1</p>
+            </li>
+        </ul>
+        <p>TURISMO PARA AYUDAR PERSONAS DE ESCASO RECURSOS Y PERSONAS CON COVID JUNTOS CAMBIAMOS EL MUNDO.</p>
+        <table border="1">
+            <tr>
+                <th>Category 1</th>
+                <td>Skill 1</td>
+                <td>Skill2</td>
+            </tr>
+        </table>
+        <h2><i>Contacts</i></h2>
+        <a href="account1 link" target="_blank">Name 1</a>
+        <a href="account2 link" target="_blank">Name 2</a>
+        <form>
+            <input placeholder="Name"/><br>
+            <input placeholder="Email"/><br>
+        </form>
+        <form>
+            <input placeholder="Name" required /><br>
+            <input placeholder="Email" required /><br>
+            <textarea placeholder="Message" required ></textarea><br>
+            <input type="submit" value="SEND"/>
+        </form>
+    </body>
+</html>
